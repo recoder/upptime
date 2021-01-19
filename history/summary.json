@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/andrewz.org",
     "slug": "andrew-z-org",
     "status": "down",
-    "uptime": "1.34%",
-    "uptimeDay": "1.34%",
-    "uptimeWeek": "1.34%",
-    "uptimeMonth": "1.34%",
-    "uptimeYear": "1.34%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-18": 0
+      "2021-01-19": 94,
+      "2021-01-18": 457
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/recoder.andrewz.org",
     "slug": "re-coder-andrew-z-org",
     "status": "down",
-    "uptime": "3.48%",
-    "uptimeDay": "3.48%",
-    "uptimeWeek": "3.48%",
-    "uptimeMonth": "3.48%",
-    "uptimeYear": "3.48%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-18": 0
+      "2021-01-19": 94,
+      "2021-01-18": 457
     }
   },
   {
@@ -56,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-18": 0
+      "2021-01-19": 94,
+      "2021-01-18": 457
     }
   }
 ]
