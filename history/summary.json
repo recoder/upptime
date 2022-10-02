@@ -2,7 +2,7 @@
   {
     "name": "AndrewZ.org",
     "url": "http://andrewz.org",
-    "icon": "https://favicons.githubusercontent.com/andrewz.org",
+    "icon": "https://icons.duckduckgo.com/ip3/andrewz.org.ico",
     "slug": "andrew-z-org",
     "status": "down",
     "uptime": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 167,
+      "2022-10-02": 159,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -379,14 +380,13 @@
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
-      "2021-10-03": 1440,
-      "2021-10-02": 1440
+      "2021-10-03": 1440
     }
   },
   {
     "name": "ReCoder.AndrewZ.org",
     "url": "https://recoder.andrewz.org",
-    "icon": "https://favicons.githubusercontent.com/recoder.andrewz.org",
+    "icon": "https://icons.duckduckgo.com/ip3/recoder.andrewz.org.ico",
     "slug": "re-coder-andrew-z-org",
     "status": "down",
     "uptime": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 167,
+      "2022-10-02": 159,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -763,14 +764,13 @@
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
-      "2021-10-03": 1440,
-      "2021-10-02": 1440
+      "2021-10-03": 1440
     }
   },
   {
     "name": "ReCoder.Rocks",
     "url": "https://recoder.rocks/",
-    "icon": "https://favicons.githubusercontent.com/recoder.rocks",
+    "icon": "https://icons.duckduckgo.com/ip3/recoder.rocks.ico",
     "slug": "re-coder-rocks",
     "status": "down",
     "uptime": "0.00%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 167,
+      "2022-10-02": 160,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -1147,8 +1148,7 @@
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
-      "2021-10-03": 1440,
-      "2021-10-02": 1440
+      "2021-10-03": 1440
     }
   }
 ]
